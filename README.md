@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Crhistian</h1>
 <h3 align="center">I am a self taught programmer trying to learn a bit of Python...</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently improving my Python skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
