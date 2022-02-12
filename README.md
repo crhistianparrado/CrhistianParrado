@@ -1,6 +1,5 @@
-### Recently Played :rooster:
 
-[![Spotify ](https://spotify-recently-played-readme.vercel.app/api?user=31u3ldhwrka7xkxcqlcy2mkpxt3m)](https://open.spotify.com/user/31u3ldhwrka7xkxcqlcy2mkpxt3m)
+
 <!--
 **crhistianparrado/CrhistianParrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
