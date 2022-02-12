@@ -5,7 +5,7 @@
 
 -->
 ![Python](https://user-images.githubusercontent.com/37276973/153714731-5c13ec59-02b9-40b5-a45a-1c9c95e58bcb.png)
-<h1 align="center">Hi 👋, I'm Crhistian</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px", I'm Crhistian</h1>
 <h3 align="center">I am a self taught programmer trying to learn a bit of Python...</h3>
 
 - 🌱 I’m currently improving my Python skills
